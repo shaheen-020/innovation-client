@@ -9,7 +9,7 @@ const SignIn = () => {
                 <div className="hero  min-h-screen">
                     <div className="hero-content flex-col lg:flex-row-reverse">
                         <div className="text-center lg:text-left space-y-4 space-x-3">
-                            <h1 className="lg:text-5xl text-3xl font-bold">Welcome Back!</h1>
+                            <h1 className="lg:text-5xl text-3xl font-bold">Welcome Back to you!</h1>
                             <p>
                                 Sign in or login is the process of authenticating your identity to access an online account,
                                 app, or service, typically by providing a username and password.
